@@ -1,0 +1,6 @@
+{
+  "name": "Selfcomp - Tecnologia que gera resultados",
+  "description": "Software sob medida, Inteligência Artificial, automações e produtos SaaS para empresas que buscam reduzir custos, eliminar gargalos manuais e escalar a sua eficiência operacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
